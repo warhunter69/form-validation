@@ -1,0 +1,23 @@
+.form-div{
+   background-color: #f2f2f2;
+   border-radius: 5px;
+    width: 500px;
+    height: 300px;
+}
+input{
+   
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.label{
+    
+    padding: 10px;
+    margin: 10px;
+    
+  
+}
